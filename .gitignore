@@ -1,0 +1,6 @@
+node_modules
+
+#firebase config admin
+src/config/telemed-18006-firebase-adminsdk-6m03w-60404d2581.json
+
+.env
